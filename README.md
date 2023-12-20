@@ -1,6 +1,6 @@
 ### Hello! I'm Victor :)
 
-I'm currently studying Computer Science at University of São Paulo (USP)!
+Currently studying Computer Science at University of São Paulo (USP)!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlfernandes&layout=donut&theme=tokyonight)
 
